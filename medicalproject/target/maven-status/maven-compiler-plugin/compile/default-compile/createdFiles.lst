@@ -1,0 +1,7 @@
+com/perennialsys/MedicalModel/GenericCategoriesModel.class
+com/perennialsys/controller/MedicineController.class
+com/perennialsys/queries/DatabaseQueries.class
+com/perennialsys/connection/GetConnection.class
+com/perennialsys/MedicalModel/Symptoms.class
+com/perennialsys/MedicalModel/Disease.class
+com/perennialsys/MedicalModel/Medicine.class
