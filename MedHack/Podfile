@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'MadHack' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MadHack
+  pod 'Alamofire'
+  pod 'AlamofireImage'
+pod 'NVActivityIndicatorView'
+pod "SwiftSpinner"
+pod 'FLAnimatedImage'
+
+  target 'MadHackTests' do
+    
+
+  end
+
+  target 'MadHackUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
